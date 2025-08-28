@@ -1,5 +1,5 @@
 import "./globals.css";
-import { Providers } from "./providers"; // ✅ Now this file exists
+import { Providers } from "./providers"; 
 
 export const metadata = {
   title: "Todo App",
